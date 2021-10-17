@@ -1,0 +1,14 @@
+{
+   "browser_action": {
+      "default_icon": "SP.png",
+      "default_popup": "popup.html"
+   },
+   "description": "This extension will analyze a page using GTmetrix",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjZtzZZKTjGQLIin2bYA2fv+5mUjmfmCdMEebSEW1GRWnqVQ/JZEWTFO/M3K2D6Z5DvlATiogH0MyITVccTx4J25LH0DPQmufszWSQpvt1i0OIvZUUDYxJ8pJXywH5nAyVpNBYvcsWRK9RJYiNvw6uAikQm2r6hoIcJ3rSQN3DfnY3MX2uE1qPhsYLlCbPdaadH0uQ0UzOCg4vfMiPYDTrewD8mZrCrOB4vbTv1W2pIsslUftpHpeyfqxMMvfW1Ntz/A2ct6XLkqYXIRmJuAp3vu2xyJupK3bsTBfiMNdVVKPcUZJca8VzvSqNn4FZmwz5eqtTGr+/TMb5+RxvZyQ7wIDAQAB",
+   "manifest_version": 2,
+   
+   "name": "Website Checker",
+   "permissions": [ "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
